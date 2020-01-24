@@ -4,9 +4,9 @@
 
                                 Runtime Analysis
 a)  a = 0                       
-    while (a < n * n * n):      O(n^3)    or O(3n)
+    while (a < n * n * n):      O(n^3)    
       a = a + n * n             O(n)
-                       Answer   O(n^3)    or O(n)
+                       Answer   O(n^3)    
 
 
 
