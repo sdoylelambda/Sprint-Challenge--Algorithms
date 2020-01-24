@@ -42,6 +42,7 @@ if egg_dropped =< f === breaks egg
 else egg doesn't break
 recursion
 
+
 def maxFloor(building):
     for floor in building:
         find the middle floor
@@ -50,3 +51,9 @@ def maxFloor(building):
         else go up by half num of floors
         repeat until egg breaks on one floor and floor directly below it does not
         return that floor
+        
+        
+Fast runtime = O(nLogn)
+Overall time complexity of Merge sort is O(nLogn). It is more efficient as it is in worst case also the 
+runtime is O(nlogn) The space complexity of Merge sort is O(n). This means that this algorithm takes a 
+lot of space and may slower down operations for the last data sets

@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7609a847-8054-4293-8111-cf9933cf47c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Sprint-Challenge--Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sprint-Challenge--Algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Short-Answer/Algorithms_Answers.md" beforeDir="false" afterPath="$PROJECT_DIR$/Short-Answer/Algorithms_Answers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive_count_th/count_th.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursive_count_th/count_th.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

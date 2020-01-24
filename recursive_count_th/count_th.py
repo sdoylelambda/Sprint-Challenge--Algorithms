@@ -5,6 +5,19 @@ Your function must utilize recursion. It cannot contain any loops.
 '''
 def count_th(word):
     
-    # TBC
+    # UPER
+    # U - UNDERSTAND
+    # Take in a single parameter (a string `word`)
+    # return(INT) occurences of ***"th"*** occur within `word`.
+    th = 'th'
+    th_count = 0
+    # Case matters
+    # NO LOOPS -- USE WHILE
+    looper = True
+    # P - PLAN
+    while looper:
+        # if looper has th add 1 to th_count
+        # and remove it from the string and keep going
+
     
-    pass
+    return th_count
